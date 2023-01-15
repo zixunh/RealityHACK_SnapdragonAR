@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.9.0/Core Samples/Scenes/Main Menu/Main
+      Menu.unity
+    guid: 2b406ea90420fc841839c843c6bfc3d5
+  - enabled: 1
+    path: Assets/Samples/Snapdragon Spaces/0.9.0/Core Samples/Scenes/Anchor Sample/Anchor
+      Sample.unity
+    guid: a6e56af4472621b45b91380052443a24
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.9.0/Core Samples/Scenes/Hand Tracking
+      Sample/Hand Tracking Sample.unity
+    guid: 7f6052019a1504ac09ac3e728b12dd65
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.9.0/Core Samples/Scenes/Hit Testing
+      Sample/Hit Testing Sample.unity
+    guid: c583c7f614816bd489b3bcd62bf9aac0
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.9.0/Core Samples/Scenes/Image Tracking
+      Sample/Image Tracking Sample.unity
+    guid: 61f68fcb03f5e2640b757852c008c89a
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.9.0/Core Samples/Scenes/Plane Detection
+      Sample/Plane Detection Sample.unity
+    guid: 46111d8efce134ef38f645e0c00e1362
+  - enabled: 0
+    path: Assets/Samples/Snapdragon Spaces/0.9.0/Core Samples/Scenes/XR Interaction
+      Toolkit Sample/XR Interaction Toolkit Sample.unity
+    guid: 457c784199db14427a9e59e7acbf15a2
+  - enabled: 0
+    path: Assets/Scenes/ModelAssets.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/PlaneTest.unity
+    guid: bd0b3e0385e95c14eab74c4cb620978b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e142b2d4bb9d83c49b90783c4c52bf5a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 25d87920c9ae9a84da98f0ad3f856177, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 40eba796905722140bbf60dd51ec1f5f, type: 2}
